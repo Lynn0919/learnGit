@@ -11,10 +11,3 @@ Second Day Practice
 
 New branch...Dev
 
-<<<<<<< HEAD
-master modified!
-checkout diff...
-=======
-master modified!
-check diff...
->>>>>>> feature1
